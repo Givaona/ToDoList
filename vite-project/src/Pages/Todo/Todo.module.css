@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: ; */
+    align-items: center;
+}
+
+.nome{
+    display: flex;
+    align-items: center;
+}
+.lista{
+    height: 500px;
+    background-color: #707070;
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+
+    width: 100%;
+
+}
